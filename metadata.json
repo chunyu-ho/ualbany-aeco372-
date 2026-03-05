@@ -1,0 +1,5 @@
+{
+  "name": "US Inflation Tracker",
+  "description": "A real-time US inflation dashboard using FRED data, featuring interactive line charts and historical analysis.",
+  "requestFramePermissions": []
+}
